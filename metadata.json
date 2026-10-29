@@ -1,0 +1,10 @@
+{
+  "name": "SafeCross",
+  "description": "SafeCross — Navigate Smarter. Stay Aware. Real-time proximity safety alerting prototype for pedestrians and drivers on mixed-traffic roads.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
